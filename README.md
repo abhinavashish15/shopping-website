@@ -8,4 +8,4 @@ This project utilizes a robust tech stack, including HTML, CSS. We integrate a r
 We welcome contributions from the GitHub community to enhance and refine our shopping website further. Whether you're interested in improving user interface design, optimizing database queries, or adding new features, your input is valuable. Please refer to our contribution guidelines for more details on how to get involved.
 
 **Getting Started:**<br>
-To run this project locally, follow the installation instructions provided in the README. You can also access a live demo of our shopping website at [Demo Link], where you can experience its features firsthand.
+To run this project locally, follow the installation instructions provided in the README. You can also access a live demo of our shopping website at [ https://abhinavashish15.github.io/shopping-website/ ], where you can experience its features firsthand.
